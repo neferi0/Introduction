@@ -1,4 +1,4 @@
-<h1>Hello I'm Tayo, an <a href="https://www.linkedin.com/in/dada-tayo/">IT Specialist</a>☺</h1>
+<h1>Hello I'm Tayo, an <a href="https://www.linkedin.com/in/dada-tayo/">IT Specialist</a></h1>
 
 <h2>🖥️ Information Technology Projects🖥</h2>
 
